@@ -38,7 +38,7 @@ Commentaires= c;
 
 	public static void main(String [] args){
 
-		Touriste A = new Touriste("zoubir", "remmache", "algerain", 19);
+		Touriste A = new Touriste("nom", "prenom", "algerian", 19);
 		A.AjouterPays("france");
 		A.AfficherListPays();
 
